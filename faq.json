@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language used for web development, AI, data science, automation, and more."
+    },
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a branch of AI that enables computers to learn from data."
+    },
+    {
+        "question": "What is Streamlit?",
+        "answer": "Streamlit is a Python framework used to build interactive web applications."
+    },
+    {
+        "question": "What is CodeAlpha?",
+        "answer": "CodeAlpha is a platform that offers internships and project-based learning opportunities."
+    },
+    {
+        "question": "Who developed Python?",
+        "answer": "Python was developed by Guido van Rossum."
+    },
+    {
+        "question": "What is GitHub?",
+        "answer": "GitHub is a platform used to host and manage Git repositories."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing is a branch of AI that helps computers understand human language."
+    },
+    {
+        "question": "What is Deep Learning?",
+        "answer": "Deep Learning is a subset of Machine Learning based on neural networks."
+    },
+    {
+        "question": "What is ChatGPT?",
+        "answer": "ChatGPT is an AI chatbot developed by OpenAI."
+    },
+    {
+  "question": "What is Java?",
+  "answer": "Java is an object-oriented programming language used for web, desktop, and Android development."
+},
+{
+  "question": "What is SQL?",
+  "answer": "SQL is a language used to store, retrieve, and manage data in databases."
+},
+{
+  "question": "What is HTML?",
+  "answer": "HTML is the standard markup language used to create web pages."
+},
+{
+  "question": "What is CSS?",
+  "answer": "CSS is used to style and design HTML web pages."
+},
+{
+  "question": "What is JavaScript?",
+  "answer": "JavaScript is a scripting language used to make web pages interactive."
+},
+{
+  "question": "What is Git?",
+  "answer": "Git is a version control system used to track changes in source code."
+},
+{
+  "question": "What is Data Science?",
+  "answer": "Data Science involves extracting insights and knowledge from data using statistics and machine learning."
+},
+{
+  "question": "What is an API?",
+  "answer": "An API allows different software applications to communicate with each other."
+},
+{
+  "question": "What is Cloud Computing?",
+  "answer": "Cloud Computing provides computing services such as storage and servers over the internet."
+},
+{
+  "question": "What is Cyber Security?",
+  "answer": "Cyber Security protects systems, networks, and data from digital attacks."
+}
+]
