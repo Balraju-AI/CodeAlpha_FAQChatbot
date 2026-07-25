@@ -1,82 +1,202 @@
 [
-    {
-        "question": "What is Python?",
-        "answer": "Python is a high-level programming language used for web development, AI, data science, automation, and more."
-    },
-    {
-        "question": "What is Artificial Intelligence?",
-        "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
-    },
-    {
-        "question": "What is Machine Learning?",
-        "answer": "Machine Learning is a branch of AI that enables computers to learn from data."
-    },
-    {
-        "question": "What is Streamlit?",
-        "answer": "Streamlit is a Python framework used to build interactive web applications."
-    },
-    {
-        "question": "What is CodeAlpha?",
-        "answer": "CodeAlpha is a platform that offers internships and project-based learning opportunities."
-    },
-    {
-        "question": "Who developed Python?",
-        "answer": "Python was developed by Guido van Rossum."
-    },
-    {
-        "question": "What is GitHub?",
-        "answer": "GitHub is a platform used to host and manage Git repositories."
-    },
-    {
-        "question": "What is NLP?",
-        "answer": "Natural Language Processing is a branch of AI that helps computers understand human language."
-    },
-    {
-        "question": "What is Deep Learning?",
-        "answer": "Deep Learning is a subset of Machine Learning based on neural networks."
-    },
-    {
-        "question": "What is ChatGPT?",
-        "answer": "ChatGPT is an AI chatbot developed by OpenAI."
-    },
-    {
-  "question": "What is Java?",
-  "answer": "Java is an object-oriented programming language used for web, desktop, and Android development."
-},
-{
-  "question": "What is SQL?",
-  "answer": "SQL is a language used to store, retrieve, and manage data in databases."
-},
-{
-  "question": "What is HTML?",
-  "answer": "HTML is the standard markup language used to create web pages."
-},
-{
-  "question": "What is CSS?",
-  "answer": "CSS is used to style and design HTML web pages."
-},
-{
-  "question": "What is JavaScript?",
-  "answer": "JavaScript is a scripting language used to make web pages interactive."
-},
-{
-  "question": "What is Git?",
-  "answer": "Git is a version control system used to track changes in source code."
-},
-{
-  "question": "What is Data Science?",
-  "answer": "Data Science involves extracting insights and knowledge from data using statistics and machine learning."
-},
-{
-  "question": "What is an API?",
-  "answer": "An API allows different software applications to communicate with each other."
-},
-{
-  "question": "What is Cloud Computing?",
-  "answer": "Cloud Computing provides computing services such as storage and servers over the internet."
-},
-{
-  "question": "What is Cyber Security?",
-  "answer": "Cyber Security protects systems, networks, and data from digital attacks."
-}
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language used for web development, AI, data science, automation, and more."
+  },
+  {
+    "question": "Who developed Python?",
+    "answer": "Python was developed by Guido van Rossum."
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of AI that enables computers to learn from data."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning based on neural networks."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing enables computers to understand and process human language."
+  },
+  {
+    "question": "What is ChatGPT?",
+    "answer": "ChatGPT is an AI chatbot developed by OpenAI."
+  },
+  {
+    "question": "What is Streamlit?",
+    "answer": "Streamlit is a Python framework used to build interactive web applications."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used to track code changes."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a platform for hosting and managing Git repositories."
+  },
+  {
+    "question": "What is VS Code?",
+    "answer": "Visual Studio Code is a lightweight and powerful source code editor developed by Microsoft."
+  },
+  {
+    "question": "What is JSON?",
+    "answer": "JSON is a lightweight format for storing and exchanging data."
+  },
+  {
+    "question": "What is API?",
+    "answer": "An API allows different software applications to communicate with each other."
+  },
+  {
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight Python web framework."
+  },
+  {
+    "question": "What is Django?",
+    "answer": "Django is a high-level Python framework for building secure web applications."
+  },
+  {
+    "question": "What is Data Science?",
+    "answer": "Data Science involves extracting useful insights from data using statistics, programming, and machine learning."
+  },
+  {
+    "question": "What is Pandas?",
+    "answer": "Pandas is a Python library used for data analysis and manipulation."
+  },
+  {
+    "question": "What is NumPy?",
+    "answer": "NumPy is a Python library for numerical computing and arrays."
+  },
+  {
+    "question": "What is Matplotlib?",
+    "answer": "Matplotlib is a Python library used for creating charts and graphs."
+  },
+  {
+    "question": "What is Scikit-learn?",
+    "answer": "Scikit-learn is a Python library for machine learning algorithms."
+  },
+  {
+    "question": "What is TensorFlow?",
+    "answer": "TensorFlow is an open-source deep learning framework developed by Google."
+  },
+  {
+    "question": "What is Keras?",
+    "answer": "Keras is a high-level API for building deep learning models."
+  },
+  {
+    "question": "What is OpenAI?",
+    "answer": "OpenAI is an AI research and deployment company."
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF measures the importance of words in documents for text analysis."
+  },
+  {
+    "question": "What is Cosine Similarity?",
+    "answer": "Cosine Similarity measures the similarity between two text vectors."
+  },
+  {
+    "question": "What is FAQ?",
+    "answer": "FAQ stands for Frequently Asked Questions."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that interacts with users using text or voice."
+  },
+  {
+    "question": "What is automation?",
+    "answer": "Automation is the use of technology to perform tasks with minimal human intervention."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing services over the internet."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL is a language used to manage and query relational databases."
+  },
+  {
+    "question": "What is MySQL?",
+    "answer": "MySQL is an open-source relational database management system."
+  },
+  {
+    "question": "What is database?",
+    "answer": "A database is an organized collection of structured information."
+  },
+  {
+    "question": "What is Java?",
+    "answer": "Java is an object-oriented programming language used for desktop, web, and mobile applications."
+  },
+  {
+    "question": "What is C programming?",
+    "answer": "C is a general-purpose programming language known for its speed and efficiency."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML is the standard markup language used to create web pages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS is used to style and design HTML web pages."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a scripting language used to make web pages interactive."
+  },
+  {
+    "question": "What is Bootstrap?",
+    "answer": "Bootstrap is a CSS framework for building responsive websites."
+  },
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building user interfaces."
+  },
+  {
+    "question": "What is Node.js?",
+    "answer": "Node.js allows JavaScript to run on the server."
+  },
+  {
+    "question": "What is Linux?",
+    "answer": "Linux is an open-source operating system."
+  },
+  {
+    "question": "What is Windows?",
+    "answer": "Windows is an operating system developed by Microsoft."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "answer": "Cybersecurity protects computer systems and networks from attacks."
+  },
+  {
+    "question": "What is encryption?",
+    "answer": "Encryption converts data into a secure format to prevent unauthorized access."
+  },
+  {
+    "question": "What is Git commit?",
+    "answer": "A Git commit saves changes to a local repository."
+  },
+  {
+    "question": "What is Git push?",
+    "answer": "Git push uploads local commits to a remote repository."
+  },
+  {
+    "question": "What is Git pull?",
+    "answer": "Git pull downloads updates from a remote repository."
+  },
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a platform offering internships and project-based learning opportunities."
+  },
+  {
+    "question": "What is internship?",
+    "answer": "An internship provides practical work experience to students and fresh graduates."
+  },
+  {
+    "question": "What is software engineering?",
+    "answer": "Software engineering is the process of designing, developing, testing, and maintaining software systems."
+  }
 ]

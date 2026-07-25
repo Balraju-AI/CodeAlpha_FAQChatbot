@@ -1,28 +1,29 @@
-# 🤖 AI FAQ Chatbot
+# 🤖 AI FAQ Assistant
 
-## 📌 Project Overview
-AI FAQ Chatbot is a Streamlit-based application that answers frequently asked questions using Natural Language Processing (NLP). It uses TF-IDF Vectorization and Cosine Similarity to find the most relevant answer from the FAQ database.
+An AI-powered FAQ Chatbot built using **Python**, **Streamlit**, and **Natural Language Processing (NLP)**. The chatbot finds the most relevant answer from a knowledge base using **TF-IDF Vectorization** and **Cosine Similarity**.
 
-This project was developed as part of the **CodeAlpha AI Internship**.
+> Developed as part of the **CodeAlpha AI Internship**.
 
 ---
 
 ## 🚀 Features
 
-- 🤖 AI-powered FAQ search
-- 📚 TF-IDF + Cosine Similarity
+- 🤖 AI-based FAQ search
+- 📚 TF-IDF Vectorization
+- 🎯 Cosine Similarity Matching
 - 💬 Chat History
-- 🎯 Confidence Score
-- 🔊 Voice Output (Text-to-Speech)
+- 📊 Confidence Score
+- 🔊 Text-to-Speech (Voice Output)
 - 📥 Download Chat History
 - 🗑 Clear Chat
-- 📊 Chat Statistics
-- 🎨 Professional User Interface
+- 📈 Chat Statistics
+- 🎨 Modern Professional UI
+- 📱 Responsive Layout
 - 📖 Expandable FAQ Database
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Tech Stack
 
 - Python
 - Streamlit
@@ -44,15 +45,27 @@ CodeAlpha_FAQChatbot/
 
 ---
 
-## ▶️ Installation
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Balraju-AI/CodeAlpha_FAQChatbot.git
+```
+
+Move into the project folder:
+
+```bash
+cd CodeAlpha_FAQChatbot
+```
+
+Install the required packages:
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
-## ▶️ Run the Project
+Run the application:
 
 ```bash
 python -m streamlit run app.py
@@ -60,14 +73,44 @@ python -m streamlit run app.py
 
 ---
 
-## 📸 Sample Questions
+## 💡 Sample Questions
 
 - What is Python?
-- What is Artificial Intelligence?
-- What is Machine Learning?
 - What is ChatGPT?
-- What is Java?
+- What is Machine Learning?
+- What is Artificial Intelligence?
+- What is GitHub?
 - What is SQL?
+- What is Streamlit?
+- Who developed Python?
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+Example:
+
+```
+Home Page
+
+Chat Interface
+
+AI Response
+
+Sidebar Dashboard
+```
+
+---
+
+## 🎯 Future Improvements
+
+- 🌍 Multi-language Support
+- 🧠 Semantic Search
+- 📄 PDF Knowledge Base
+- ☁️ Database Integration
+- 👤 User Authentication
 
 ---
 
@@ -75,10 +118,13 @@ python -m streamlit run app.py
 
 **Balraj**
 
-Developed for the **CodeAlpha AI Internship**.
+CodeAlpha AI Internship Project
+
+GitHub:
+https://github.com/Balraju-AI
 
 ---
 
 ## 📜 License
 
-This project is for learning and educational purposes.
+This project is created for educational and learning purposes.
