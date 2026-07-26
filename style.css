@@ -1,0 +1,49 @@
+/* Background */
+.stApp{
+    background: linear-gradient(135deg,#eef2ff,#f8fafc);
+}
+
+/* Main Title */
+.title{
+    font-size:48px;
+    font-weight:700;
+    color:#2563EB;
+    text-align:center;
+}
+
+/* Subtitle */
+.subtitle{
+    font-size:20px;
+    color:#555;
+    text-align:center;
+}
+
+/* Glass Card */
+.card{
+    background:rgba(255,255,255,0.75);
+    padding:25px;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.12);
+    backdrop-filter:blur(10px);
+    margin-top:20px;
+}
+
+/* Buttons */
+.stButton>button{
+    width:100%;
+    border-radius:15px;
+    height:55px;
+    font-size:18px;
+    font-weight:bold;
+    background:#2563EB;
+    color:white;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"]{
+    background:#1E293B;
+}
+
+section[data-testid="stSidebar"] *{
+    color:white;
+}
